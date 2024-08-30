@@ -28,4 +28,3 @@ This repository implements a combination of Latent Dirichlet Allocation (LDA) wi
 - `lda_comment.py` provides examples of LDA topic modeling on sample textual data.
 
 
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
